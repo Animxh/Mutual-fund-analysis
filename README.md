@@ -62,25 +62,6 @@ We employ a robust set of Python tools and libraries to power this analysis:
 
 ---
 
-## 🚀 How to Run the Project
-Want to explore the analysis? It’s easy!
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/mutual-fund-analysis.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Open and run the notebook:
-   ```bash
-   jupyter notebook Mutual_fund_analysis.ipynb
-   ```
-4. Follow along with the cells to see the analysis unfold!
-
----
-
 ## 🎯 Output & Results
 - **📈 Trend Visualizations**: Dynamic visualizations of stock price movements over time.
 - **💡 Insights**: Data-backed recommendations for a strong mutual fund portfolio.
@@ -104,15 +85,8 @@ The world of finance is always evolving, and so is this analysis! Here are a few
 - **Real-Time Strategy**: Automate the strategy by integrating with real-time data for instant mutual fund suggestions.
 
 ---
-
-## 🤝 Collaboration
-Interested in contributing or discussing the project? Reach out, and let’s collaborate!
-
 **Author**: Animesh Sen  
 **Email**: [animesh0320@gmail.com](mailto:animesh0320@gmail.com)  
 **GitHub**: [Animxh](https://github.com/Animxh)
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License—enjoy and modify as you see fit!
